@@ -30,5 +30,6 @@ RESULTS on test data (50k subset): 0.48 recall on class 3 (large) fires, but onl
 2. Look up location altitude based on lat/long. 
 3. Adjust fire history function
 4. More features
+<!-- 5. Redo EDA -->
 
 
