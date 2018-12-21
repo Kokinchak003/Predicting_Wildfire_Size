@@ -23,11 +23,11 @@ Notebook Progression:
 11. Test model on 10k subset randomly sampled from 500000 most recent fires. UNREASONABLE TESTING. 
 12. Pivot to do more feature mining on G dataset-->
 13. Extend engineered features to full dataset, but no weather features due to issues with API.
-RESULTS on test data (50k subset): 0.48 recall on class 3 (large) fires, but only 0.04 F1 score. 
+RESULTS on test data (10k subset) ~0.10 F1 score on . 
 
 # TAKE 2 (soon)
-1. Scrape weather from Google BigQuery public datasets.
-2. Look up location altitude based on lat/long. 
+1. Scrape weather from Google BigQuery public datasets. -- Done
+2. Look up location altitude based on lat/long. -- Done 
 3. Adjust fire history function
 4. More features
 <!-- 5. Redo EDA -->
